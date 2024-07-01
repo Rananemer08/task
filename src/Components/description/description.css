@@ -1,0 +1,43 @@
+.read-more1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 20px;
+    background-color: white; 
+    color: #303030;
+    border: none;
+    cursor: pointer;
+    
+    padding: 0;
+  }
+  
+  .read-more1 img.group-icon {
+
+    width: 26px;
+    height: 26px;
+    font-family: Tenor Sans;
+    
+  }
+  
+  .description {
+    margin-top: 850px !important;
+    width: 40%;
+    margin-left: 500px;
+    text-align: start;
+  
+    font-size: 17px;
+    font-weight: 400;
+  }
+  .text-blog-main h6 {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 15px;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+  }
+  .text-blog-main h2{
+    font-family:Tenor Sans;
+    font-weight: 400;
+    font-size: 45px;
+  }

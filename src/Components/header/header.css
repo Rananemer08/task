@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.img-author{
+    width:680px;
+    height: 651px;
+    background-size: cover;
+}
+.header img{
+    float: left ;
+
+}
+header p{
+    float: right;
+}
+.p-header{
+    font-family: Tenor Sans;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 52.65px;
+    height: 212px;
+    width:390px;
+    float: right;
+    margin-right: 250px;
+    text-align: start;
+    margin-top: 240px;
+}
